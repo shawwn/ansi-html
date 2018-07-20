@@ -1,6 +1,6 @@
 {
   "name": "shawwn-ansi-html",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "An elegant lib that converts the chalked (ANSI) text to HTML.",
   "main": "index.js",
   "scripts": {
@@ -28,8 +28,7 @@
   "engines": [
     "node >= 0.8.0"
   ],
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "mocha": "^1.21.4",
     "chai": "^1.9.1",
